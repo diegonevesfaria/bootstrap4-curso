@@ -24,8 +24,15 @@ body{
     .fixed-top {
         position: relative;
     }
+    .nosso-contato{
+        padding-top: 10px;
+    }
 }
 
 .pergunta {
     border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+.botao-redesocial {
+    max-width: 140px;
 }
